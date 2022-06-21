@@ -14,7 +14,7 @@ labels: enhancement
 -->
 
 - [ ] I've searched the issues
-- [ ] I've read the [docs](https://www.atlas.bi/docs/bi_library/etl/)
+- [ ] I've read the [docs](https://www.atlas.bi/docs/)
 
 ## Feature Request
 
